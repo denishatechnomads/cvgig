@@ -1,0 +1,23 @@
+.form-group.required label:after {
+    content:"*";color:#ee2558;
+}
+
+.badge-succeed {
+    color: #fff;
+    background-color: #28a745;
+}
+
+.badge-pending {
+    color: #212529;
+    background-color: #ffc107;
+}
+
+.badge-canceled {
+    color: #fff;
+    background-color: #343a40;
+}
+
+.badge-failed {
+    color: #fff;
+    background-color: #ee2558;
+}
